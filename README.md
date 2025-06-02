@@ -30,7 +30,4 @@ This is a simple React app that allows users to convert temperatures between Cel
 - Focus ring and input design  
 - Responsive design ready
 
----
-
-## 📂 Folder Structure
 
